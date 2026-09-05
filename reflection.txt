@@ -1,0 +1,9 @@
+
+a) I typically use VSCode and java because those are the IDE and language I am most familiar and comfortable with
+
+b) I don't have any prior experience using vi or other terminal based editors.
+
+c) The advantages are that they allow for quick and efficient editing for files, and the disadvantage is that they can be difficult to learn how to use for beginners.
+
+console.log("I typically use VSCode and Java because i am most familiar with them")
+
