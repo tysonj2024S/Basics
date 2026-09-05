@@ -1,3 +1,3 @@
 # CS3704 SE Basics Workshop
-Tyson Jones
+Tyson Jones  
 Hello GitHub!
